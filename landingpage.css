@@ -3,9 +3,12 @@ body {
     max-width: 1920px;
     
 }
+header {
+    height: 70px;
+}
 .flex-row {
-    padding: 0;
-    margin: 0;
+    padding-left: 20px;
+    margin: 0px;
     list-style: none;
     display: flex;
     flex-direction: row;
@@ -27,4 +30,6 @@ body {
     letter-spacing: 0em;
     text-align: left;
     color: #1F2041BF;
+    margin: 0px;
+    padding: 0px;
 }
